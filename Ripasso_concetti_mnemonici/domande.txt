@@ -1,0 +1,11 @@
+metallo + ossigeno
+non metallo + ossigeno
+metallo + idrogeno
+non metallo(alogeno) + idrogeno
+metallo + non metallo
+metallo + ossigeno + idrogeno
+non metallo + ossigeno + idrogeno
+metallo + non metallo + ossigeno
+metallo + non metallo + ossigeno + idrogeno
+Numero di Avogadro
+Costante di Avogadro

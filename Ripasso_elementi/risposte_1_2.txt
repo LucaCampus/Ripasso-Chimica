@@ -1,0 +1,12 @@
+H	gas	non metallo	+1 -1	primo
+Li	solido	metallo	+1	primo
+Na	solido	metallo	+1	primo
+K	solido	metallo	+1	primo
+Rb	solido	metallo	+1	primo
+Cs	solido	metallo	+1	primo
+Be	solido	metallo	+2	secondo
+Mg	solido	metallo	+2	secondo
+Ca	solido	metallo	+2	secondo
+Sr	solido	metallo	+2	secondo
+Ba	solido	metallo	+2	secondo
+Ra	solido	metallo	+2	secondo

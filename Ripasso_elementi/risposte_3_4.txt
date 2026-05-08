@@ -1,0 +1,10 @@
+B	solido	semimetallo	+3	terzo
+Al	solido	metallo	+3	terzo
+Ga	solido	metallo	+3	terzo
+In	solido	metallo	+3	terzo
+Tl	solido	metallo	+3 +1	terzo
+C	solido	non metallo	+2 +4 -4	quarto
+Si	solido	semimetallo +2 +4 -4	quarto
+Ge	solido	semimetallo	+4 +2	quarto
+Sn	solido	metallo	+4 +2	quarto
+Pb	solido	metallo	+4 +2	quarto

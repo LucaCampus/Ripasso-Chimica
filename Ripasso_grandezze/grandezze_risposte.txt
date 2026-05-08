@@ -1,0 +1,14 @@
+metro	m	
+chilogrammo	kg	
+secondo	s	
+ampere	A	
+kelvin	Kg	
+mole	mol	
+newton	N	massa x accelerazione
+pascal	Pa	forza / superficie
+joule	J	forza x spostamento
+watt	W	energia / tempo
+coulomb	C	corrente elettrica x tempo
+volt	V	energia / carica elettrica
+ohm	omega	differenza di potenziale elettrico / corrente elettrica
+hertz	Hz	1 / tempo

@@ -1,0 +1,12 @@
+Idrogeno
+Litio
+Sodio
+Potassio
+Rubidio
+Cesio
+Berillio
+Magnesio
+Calcio
+Stronzio
+Bario
+Radio

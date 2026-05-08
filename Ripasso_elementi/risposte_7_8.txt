@@ -1,0 +1,12 @@
+F 	gas alogeno	-1	settimo
+Cl 	gas alogeno	-1 +1 +3 +5 +7	settimo
+Br 	liquido alogeno	-1 +1 +5 +7	settimo
+I 	solido  alogeno	-1 +1 +5 +7	settimo
+At 	solido  semimetallo	-1 +1 +3 +5 +7	settimo
+He 	gas gas nobile	ottavo
+Ne 	gas gas nobile	ottavo
+Ar 	gas gas nobile	ottavo
+Kr 	gas gas nobile	ottavo
+Xe 	gas gas nobile	ottavo
+Rn 	gas gas nobile	ottavo
+Og 	gas gas nobile  ottavo

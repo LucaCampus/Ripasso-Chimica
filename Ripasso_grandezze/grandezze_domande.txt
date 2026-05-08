@@ -1,0 +1,14 @@
+Lunghezza
+Massa
+Intervallo di tempo
+Corrente elettrica
+Temperatura termodinamica
+Quantità di materia
+Forza
+Pressione
+Energia
+Potenza
+Carica Elettrica
+Differenza di potenziale elettrico
+Resistenza elettrica
+Frequenza

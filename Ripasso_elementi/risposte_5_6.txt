@@ -1,0 +1,10 @@
+N 	gas non metallo	-3 +1 +2 +3 +4 +5	quinto
+P 	solido  non metallo	-5 -3 +2 +3 +4 +5	quinto
+As 	solido  semimetallo	-3 +3 +5	quinto
+Sb 	solido  semimetallo	-3 +3 +5	quinto
+Bi 	solido  metallo	 +3 +5 	quinto
+O 	gas non metallo	-2 -1	sesto
+S 	solido  non metallo	-2 +2 +4 +6	sesto
+Se 	solido  non metallo	 +2 +4 +6	sesto
+Te 	solido  semimetallo	 +2 +4 +6	sesto
+Po 	solido  semimetallo	 +2 +4 	sesto

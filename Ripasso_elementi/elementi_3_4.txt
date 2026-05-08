@@ -1,0 +1,10 @@
+Boro
+Alluminio
+Gallio
+Indio
+Tallio
+Carbonio
+Silicio
+Germanio
+Stagno
+Piombo
