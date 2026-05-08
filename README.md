@@ -4,6 +4,8 @@ Python scripts for reviewing chemistry topics through simple interactive quizzes
 
 The repository contains command-line quiz tools for memorizing chemical elements, mnemonic concepts, and physical quantities. Questions and answers are stored in text files, so the datasets can be edited or extended without changing the Python code.
 
+Originally created in March 2023 and published in May 2026.
+
 ## Contents
 
 - `Ripasso_concetti_mnemonici/` - quiz for mnemonic chemistry concepts.
